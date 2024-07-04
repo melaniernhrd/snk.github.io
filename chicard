@@ -1,0 +1,28 @@
+<div style="width: 430px; height: 50px; position: absolute; margin-top: 5px; z-index: 2;"><center><img src="https://i39.servimg.com/u/f39/20/07/98/53/1missi11.png"></center></div><div class="MissingKarte"><div style="width:50px; height: 50px; float: left; margin-left: 2px; margin-top: -2px;"></div><div style="float: right; margin-right: 0px; margin-top: -1px;"><img src="https://i39.servimg.com/u/f39/20/07/98/53/1_miss11.png"></div><div class="MissingEckdatenbox"><div class="MissingEckdaten"><p>Name:</p>VORNAME NACHNAME</div><div class="MissingEckdaten"><p>Alter:</p>XX JAHRE</div><div class="MissingEckdaten"><p>Rang:</p>RANG</div><div class="MissingEckdaten"><p>Position:</p>POSITION</div><div class="MissingEckdaten"><p>Chakra:</p>ELEMENTE</div></div>
+
+<div class="Portrait"><img src="LINK ZUM BILD EURES CHARS"></div><div class="MissingNotizen">NOTIZEN AN DIESER STELLE</div><div class="MissingMissionbox"><div class="MissingMission" style="background-color: #854a07;"><b>Missionen</b></div><div class="MissingMission">S - 0</div><div class="MissingMission">A - 0</div><div class="MissingMission">B - 0</div><div class="MissingMission">C - 0</div><div class="MissingMission">D - 0</div><div class="MissingMission">E - 0</div></div>
+
+<div class="MissingMissingTeambox"><div class="MissingTeam"><img src="LINK ZUM BILD VOM MissingTeam"></div><div class="MissingTeam"><img src="LINK ZUM BILD VOM MissingTeam"></div><div class="MissingTeam"><img src="LINK ZUM BILD VOM MissingTeam"></div></div>
+
+<ul class="Missingstats"><li style="width:100%;">NIN</li><li style="width:100%;">GEN</li><li style="width:100%;">TAI</li><li style="width:100%;">STA</li><li style="width:100%;">CHK</li><li style="width:100%;">GSW</li><li style="width:100%;">KRF</li></ul></div>
+
+
+
+  <style> .KiriKarte { position: relative; width: 400px; height: 500px; background: #506B93; border-style: solid; border-width: 5px; border-color: #dfcea1; } 
+  .KiriEckdatenbox { width: 202px; height: 150px; position: absolute; top: 47px; left: 10px; } 
+.KiriEckdaten { display: flex; background: #dfcea1; float: bottom; width: 197px; height: 25px; margin-bottom: 7px; align-items: center; color: #000000; padding-left: 5px; } 
+.KiriPortrait { width: 170px; height: 240px; background: #FFFFFF; position: absolute; top: 47px; left: 218px; border-style: solid; border-width: 1px; color: #000000 } 
+.KiriTeambox { width: 50px; height: 210px; position: absolute; top: 295px; left: 328px; }
+.KiriTeam { width: 60px; height: 60px; background: #FFFFFF; float: left; margin-left: 0px; margin-bottom: 5px; border-style: solid; border-width: 1px; color: #000000 } 
+.Kiristats { list-style-type: none; width: 223px; margin: 5px; padding: 0 0 0px; 
+overflow: auto; background: repeating-linear-gradient(to right, transparent 0 calc(100% - 1px), grey calc(100% - 1px) 100%) 0 /calc(100%/var(--n, 5)) 100%; border-left: 1px solid grey; 
+           position: absolute; top: 290px; left: 5px; } 
+.Kiristats li { box-sizing: border-box; display: flex; align-items: center; background: #dfcea1; color: #384C6B; font-size: 14px; 
+height: 22px; border-style: solid; border-width: 1px; border-color: #5C8469; margin-bottom: 7px; } 
+               li:last-child { margin-bottom: 0px; } 
+.KiriNotizen { box-sizing: border-box; width: 202px; height: 82px; background: #D7E0EA; color: #384C6B; position: absolute; top: 207px; left: 10px; 
+border-style: solid; border-width: 1px; font-size: 11px; padding-left: 2px; padding-right: 2px; } 
+.KiriMissionbox { width: 75px; height: 194px; text-align: center; position: absolute; top: 295px; left: 242px; border-style: solid; border-width: 1px; color: #000000 }
+  .KiriMission { background: #dfcea1; margin-bottom: 9px; height: 20px; color: #000000 } b { font-weight: bold; text-shadow: none !important; }
+p { font-weight: bold; text-shadow: none; margin-right: 3px; } .ShinkirikarteHeader{ display: flex; flex-direction: row; justify-content: space-between; width:100%;height:50px;}
+.imageShinkiri{ display: flex; justify-content: center; align-items:center ; width:33%; height:auto; } .imageShinkiri img{ width: auto; height: 42px; padding:0px 4px 0px 4px; }</style>
