@@ -1,12 +1,12 @@
 .infoTOP {
   margin: auto; 
   width: 480px; 
-  height: 20px; 
+  height: 25px; 
   text-align: left; 
   font-weight: 700; 
   font-style: italic; 
   letter-spacing: 0.1em; 
-  line-height: 20px; 
+  line-height: 25px; 
   padding-left: 20px; 
   text-transform: lowercase;
 } 
