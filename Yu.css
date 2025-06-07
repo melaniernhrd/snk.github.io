@@ -33,7 +33,7 @@ background-position: center;
 .fondRP {
 margin: auto; 
 width: 500px; 
-height: 480px;
+height: auto;
 } 
 
 .titreRP {
