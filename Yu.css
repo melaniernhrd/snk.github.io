@@ -1,0 +1,71 @@
+.infoTOP {
+margin: auto; 
+width: 350px; 
+height: 40px; 
+text-align: left; 
+font-weight: 700; 
+font-style: italic; 
+letter-spacing: 0.1em; 
+line-height: 40px; 
+padding-left: 20px; 
+text-transform: lowercase;
+} 
+
+.infoTOP div {
+text-align: right; 
+position: relative; 
+top: -40px; 
+padding-right: 20px;
+} 
+
+.infoTOP a {
+color: #fff !important;
+} 
+
+.imgTOP {
+width: 370px; 
+height: 200px; 
+margin: auto; 
+background-attachment: fixed; 
+background-position: center;
+} 
+
+.fondRP {
+margin: auto; 
+width: 370px; 
+height: 480px;
+} 
+
+.titreRP {
+margin: auto; 
+text-align: center; 
+letter-spacing: 0.1em; 
+line-height: 40px; 
+text-transform: uppercase;
+} 
+
+#blocRP {
+margin: auto; 
+width: 300px; 
+height: 380px; 
+padding: 10px; 
+overflow: auto; 
+text-align: justify; 
+} 
+
+#blocRP::-webkit-scrollbar {
+width:2px;
+} 
+
+#blocRP::-webkit-scrollbar-track {
+background-color:#FFFFFF;
+} 
+
+#blocRP::-webkit-scrollbar-thumb {
+background-color: #232323;
+} 
+
+.dialRP {
+font-weight: 700; 
+padding-left: 10px;
+} 
