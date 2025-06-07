@@ -1,6 +1,6 @@
 .infoTOP {
   margin: auto; 
-  width: 500px; 
+  width: 480px; 
   height: 40px; 
   text-align: left; 
   font-weight: 700; 
@@ -52,20 +52,3 @@
   overflow: visible;
   text-align: justify; 
 } 
-
-#blocRP::-webkit-scrollbar {
-  width: 2px;
-} 
-
-#blocRP::-webkit-scrollbar-track {
-  background-color: #FFFFFF;
-} 
-
-#blocRP::-webkit-scrollbar-thumb {
-  background-color: #232323;
-} 
-
-.dialRP {
-  font-weight: 700; 
-  padding-left: 10px;
-}
