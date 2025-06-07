@@ -1,6 +1,6 @@
 .infoTOP {
 margin: auto; 
-width: 350px; 
+width: 500px; 
 height: 40px; 
 text-align: left; 
 font-weight: 700; 
@@ -23,7 +23,7 @@ color: #fff !important;
 } 
 
 .imgTOP {
-width: 370px; 
+width: 500px; 
 height: 200px; 
 margin: auto; 
 background-attachment: fixed; 
@@ -32,7 +32,7 @@ background-position: center;
 
 .fondRP {
 margin: auto; 
-width: 370px; 
+width: 500px; 
 height: 480px;
 } 
 
@@ -46,7 +46,7 @@ text-transform: uppercase;
 
 #blocRP {
 margin: auto; 
-width: 300px; 
+width: 480px; 
 height: 380px; 
 padding: 10px; 
 overflow: auto; 
