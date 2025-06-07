@@ -47,9 +47,9 @@ text-transform: uppercase;
 #blocRP {
 margin: auto; 
 width: 480px; 
-height: 380px; 
+height: auto; 
 padding: 10px; 
-overflow: auto; 
+overflow: none; 
 text-align: justify; 
 } 
 
