@@ -9,6 +9,8 @@
   line-height: 30px; 
   padding-left: 20px; 
   text-transform: lowercase;
+  overflow: visible;
+  box-sizing: border-box;
 } 
 
 .infoTOP div {
