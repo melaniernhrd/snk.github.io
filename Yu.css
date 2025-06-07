@@ -45,10 +45,10 @@
 } 
 
 #blocRP {
-  margin: 50px; 
+  margin: auto; 
   width: 480px; 
   height: auto; 
-  padding: 15px; 
+  padding: 25px; 
   overflow: visible;
   text-align: justify; 
 } 
