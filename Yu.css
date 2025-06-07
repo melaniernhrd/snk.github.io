@@ -1,84 +1,71 @@
 .infoTOP {
-  margin: auto;
-  width: 500px;
-  height: 40px;
-  text-align: left;
-  font-weight: 700;
-  font-style: italic;
-  letter-spacing: 0.1em;
-  line-height: 40px;
-  padding-left: 20px;
+  margin: auto; 
+  width: 500px; 
+  height: 40px; 
+  text-align: left; 
+  font-weight: 700; 
+  font-style: italic; 
+  letter-spacing: 0.1em; 
+  line-height: 40px; 
+  padding-left: 20px; 
   text-transform: lowercase;
-}
+} 
 
 .infoTOP div {
-  text-align: right;
-  position: relative;
-  top: -40px;
+  text-align: right; 
+  position: relative; 
+  top: -40px; 
   padding-right: 20px;
-}
+} 
 
 .infoTOP a {
   color: #fff !important;
-}
+} 
 
 .imgTOP {
-  width: 500px;
-  height: 200px;
-  margin: auto;
-  background-attachment: fixed;
+  width: 500px; 
+  height: 200px; 
+  margin: auto; 
+  background-attachment: fixed; 
   background-position: center;
-}
+} 
 
 .fondRP {
-  margin: auto;
-  width: 500px;
+  margin: auto; 
+  width: 500px; 
   height: auto;
-}
+} 
 
 .titreRP {
-  margin: auto;
-  text-align: center;
-  letter-spacing: 0.1em;
-  line-height: 40px;
+  margin: auto; 
+  text-align: center; 
+  letter-spacing: 0.1em; 
+  line-height: 40px; 
   text-transform: uppercase;
-}
+} 
 
 #blocRP {
-  margin: auto;
-  max-width: 480px;
-  height: auto;
-  padding: 10px;
-  text-align: justify;
-  overflow: hidden;
-  word-wrap: break-word;
-  box-sizing: border-box;
-}
+  margin: auto; 
+  width: 480px; 
+  height: auto; 
+  padding: 10px; 
+  overflow: visible;
+  text-align: justify; 
+} 
 
-/* Optional: Scrollbar-Styling, falls irgendwann overflow:auto nötig ist */
 #blocRP::-webkit-scrollbar {
   width: 2px;
-}
+} 
 
 #blocRP::-webkit-scrollbar-track {
   background-color: #FFFFFF;
-}
+} 
 
 #blocRP::-webkit-scrollbar-thumb {
   background-color: #232323;
-}
+} 
 
 .dialRP {
-  font-weight: 700;
+  font-weight: 700; 
   padding-left: 10px;
-}
-
-/* Optional: Responsives Layout auf kleineren Bildschirmen */
-@media screen and (max-width: 600px) {
-  .infoTOP,
-  .imgTOP,
-  .fondRP,
-  #blocRP {
-    width: 90%;
-  }
 }
