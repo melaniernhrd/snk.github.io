@@ -1,0 +1,15 @@
+<meta charset="UTF-8">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'><style type="text/css"> /*
+
+---- ÜBERSCHRIFT + STRICHE */ .stitel {font-family: 'Open Sans Condensed', sans-serif; font-size: 35px; line-height: 35px; color: #e6e6e6; text-transform: uppercase; letter-spacing: 2px;} 
+  .stitel:before, .stitel:after {content:""; display: inline-block; width: 46px; height: 1px; background: #d9d9d9; margin: 0px 15px; vertical-align: middle;}  /*
+---- ÜBERSCHRIFT BOLD */ .stitel b {font weight: bold; text-shadow: 1px 1px #161616;} /*
+  ---- UNTERTITEL */ .suntertitel {max-width: 500px; font-family: 'Open Sans Condensed', sans-serif; font-size: 9px; line-height: 10px; color: #e6e6e6; text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 4px; text-align; justify;} /*
+  a.stecki {font-family: 'Open Sans Condensed', sans-serif; font-size: 9px; line-height: 10px; color: #e6e6e6; text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 4px; text-align; justify;} /*</style>
+<center><div class="stitel">found & <b>lost</b>.</div>
+  <div class="suntertitel">There will surely be times when I shout Bring it on! even if I don't mean it.<br />
+    <img src="https://i.servimg.com/u/f33/20/55/48/40/yusig10.jpg" /><br />
+It might be that instead of finding answers. I forgot how I even got here.<br />
+ Damned to live this fate alone. Feel so far away from home.<br />
+<a href="https://www.naruto-snk.com/u1511" style="color: #fff; text-decoration: none;" target="_blank;">Kouhei</a> & <a href="https://www.naruto-snk.com/u1519" style="color:#fff; text-decoration: none;" target="_blank;">Taro</a> & <a href="https://www.naruto-snk.com/u1504" target="_blank" style="color:#fff; text-decoration: none;" target="_blank;">Shuichi</a>
+</div></center>
