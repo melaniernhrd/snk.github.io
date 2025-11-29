@@ -31,7 +31,7 @@
 #bp1 .bp1-overlaybox{
   background:#F4F4F4;
   width:380px;
-  height:60px;
+  height:65px;
   padding:5px;
   margin:auto;
   box-sizing:border-box;
@@ -56,7 +56,6 @@
   text-align:center;
   letter-spacing:3px;
   color:#333;
-  padding-bottom: 4px;
   line-height:9px;
 }
 
