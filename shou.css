@@ -56,7 +56,8 @@
   text-align:center;
   letter-spacing:3px;
   color:#333;
-  line-height:15px;
+  padding-bottom: 4px;
+  line-height:9px;
 }
 
 /* Sektionen als Tabelle  */
