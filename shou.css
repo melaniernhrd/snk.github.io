@@ -1,0 +1,186 @@
+#bp1 { width:550px; margin:auto; }
+
+/* Außenhintergrund wie Original */
+#bp1 .bp1-bg{
+  width:550px;
+  background:#F9F9F9;
+  box-sizing:border-box;
+  padding:10px;
+}
+
+/* TOP-BILD ( */
+#bp1 .bp1-top{
+  width:542px;
+  height:200px;
+  border:4px solid #F9F9F9;
+  margin:auto;
+  background:var(--bp1-header) center/cover no-repeat !important;
+  position:relative;
+}
+
+/* transparent Overlay */
+#bp1 .bp1-overlay{
+  background:rgba(250,250,250,0.52);
+  height:200px;
+  width:542px;
+  box-sizing:border-box;
+  padding-top:65px;
+}
+
+/* mittlere Box im Banner */
+#bp1 .bp1-overlaybox{
+  background:#F4F4F4;
+  width:380px;
+  height:60px;
+  padding:5px;
+  margin:auto;
+  box-sizing:border-box;
+}
+
+/* NAME  */
+#bp1 .bp1-name{
+  font-family:'Asimovian', sans-serif;
+  font-size:40px;
+  text-align:center;
+  text-transform:uppercase;
+  color:#2B6CB0;
+  line-height:38px;
+  letter-spacing:1px;
+}
+
+/* Untertitel */
+#bp1 .bp1-under{
+  font-family:'Nunito', sans-serif;
+  font-size:9px;
+  text-transform:uppercase;
+  text-align:center;
+  letter-spacing:3px;
+  color:#333;
+  line-height:9px;
+}
+
+/* Sektionen als Tabelle  */
+#bp1 .bp1-sec{
+  width:480px;
+  margin:auto;
+  display:table;
+  table-layout:fixed;
+  border-collapse:collapse;
+  margin-top:10px;
+}
+#bp1 .bp1-sec td{
+  vertical-align:middle;
+  background:#F4F4F4;
+  padding:5px;
+  box-sizing:border-box;
+}
+
+/* kleines Bildfeld ) */
+#bp1 .bp1-secimg{
+  width:200px;
+  height:100px;
+  border:3px solid #3F7FC9;
+  background-size:cover;
+  background-position:center;
+}
+
+/* Titelblock */
+#bp1 .bp1-sectitle{
+  font-family:'Saira Semi Condensed', sans-serif;
+  font-size:40px;
+  text-transform:lowercase;
+  text-align:center;
+  color:#2B6CB0;
+  line-height:35px;
+}
+
+/* kleiner Text darunter */
+#bp1 .bp1-sectext{
+  font-family:'Nunito', sans-serif;
+  font-size:8px;
+  text-transform:uppercase;
+  text-align:center;
+  letter-spacing:1px;
+  color:#333;
+  line-height:8px;
+}
+
+/* Infoboxen  */
+#bp1 .bp1-box{
+  width:470px;
+  margin:auto;
+  font-family:Calibri, sans-serif;
+  font-size:12px;
+  color:#333;
+  text-align:justify;
+  background:#F4F4F4;
+  overflow:auto;
+  height:280px;
+  box-sizing:border-box;
+  padding:5px 10px;
+  margin-top:5px;
+}
+
+/* Tags blau */
+#bp1 .bp1-tag{
+  color:#3F7FC9;
+  font-family:'Playfair Display', serif;
+  font-size:12px;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  font-weight:bold;
+}
+#bp1 .bp1-tag i{ color:#3F7FC9; font-size:13px; }
+#bp1 .bp1-box i{ color:#3F7FC9; text-transform:uppercase; }
+#bp1 .bp1-box b{ color:#2B6CB0; font-family:'Nunito', sans-serif; }
+#bp1 .bp1-box s{ color:#2B6CB0; }
+#bp1 .bp1-subhead{ font-size:15px; text-transform:uppercase; }
+
+/* Tabellenbereich */
+#bp1 .bp1-table{
+  width:480px;
+  margin:auto;
+  border-collapse:collapse;
+  margin-top:5px;
+}
+#bp1 .bp1-table .bp1-th{
+  font-family:'Tulpen One', cursive;
+  color:#2B6CB0;
+  text-align:center;
+  font-size:22px;
+  text-transform:uppercase;
+  padding:8px 0;
+  background:#F4F4F4;
+}
+#bp1 .bp1-table .bp1-td{
+  text-align:justify;
+  color:#333;
+  font-family:Calibri, sans-serif;
+  font-size:11px;
+  padding:4px 0 4px 10px;
+  background:rgba(245,245,245,0.62);
+  white-space:pre-line;
+}
+
+/* Facts unten */
+#bp1 .bp1-facts{
+  width:480px;
+  margin:auto;
+  border-collapse:collapse;
+  margin-top:10px;
+}
+#bp1 .bp1-facts td{
+  background:#F4F4F4;
+  color:#2B6CB0;
+  font-family:Calibri, sans-serif;
+  font-size:11px;
+  padding:5px 4px;
+  text-align:center;
+  text-transform:uppercase;
+}
+#bp1 .bp1-facts a{
+  color:#2B6CB0;
+  font-weight:bold;
+  text-decoration:none;
+}
+#bp1 .bp1-facts a:hover{ text-decoration:underline; }
