@@ -80,8 +80,16 @@
   width:200px;
   height:100px;
   border:3px solid #3F7FC9;
-  background-size:cover;
-  background-position:center;
+  overflow:hidden;
+  position:relative;
+  background:#F4F4F4; /* wie Original */
+}
+
+#bp1 .bp1-secimg img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
 }
 
 /* Titelblock */
